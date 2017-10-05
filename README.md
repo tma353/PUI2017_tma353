@@ -1,10 +1,6 @@
-# PUI2017_tma353
-Spent time setting up github and my computer terminal functionality
-A text file was created in terminal and updated through push and pull requests, including breaking the connection by having a conflict. ![alt text](https://github.com/tma353/PUI2017_tma353/blob/master/myfirstfile.png)
+# PUI2017_HW3_tma353
+part 1 worked with Matt, Valeria and Davey. Got a few suggestions from Rebecca and Emily to use the Wald distribution for the the 5th distribution. The goal of the assignment was to make 5 different distributions display the value of the centrality theorem. The mean was always 100 and we forced that relationship and had a random number of samples to see how many random samples does it take to have a mean of 100 as the population. The short answer based on the histogram of a the 5 distributions is about 200 samples.
 
-This was based on using bash to link the githup repository and PUI folder added to my PC
-Also, created an alias to change the directory to my computer's folder simply, was done my updating my bash profile, image is included. ![alt text](https://github.com/tma353/PUI2017_tma353/blob/master/alias%20pui2017.png)
+part 2 I followed mjs639, Matt's work. The goal was to take citibike data and look for interesting things to render and plot to show ability to make sense of rider data.
 
-Updating terminal bash profile, I cereated an alias called pui2017 that cd to /Users/tarekarafat/PUI2017, screenshot and test incldued. It used echo $PUI2017 to map the path.
-![alt text](https://github.com/tma353/PUI2017_tma353/blob/master/bash%20profile.png)
-I want to thank Matt Sauter and Srikanth for helping, also Valeria and Davey for forking.
+part 3, followed along with Matt and completed basically lab 3 and related the results of the z test score to test the null hypothesis. The falsifiability of the data being a statistical outlier from a significant mean.
