@@ -1,6 +1,6 @@
 Homework 5
 
-worked with Davey, Valeria, Imran
+worked with Matt, Davey, Valeria, Imran
 
 part1 using the z score to test distributions
 
