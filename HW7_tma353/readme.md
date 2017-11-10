@@ -7,4 +7,4 @@ Authera page: https://www.authorea.com/users/175471/articles/210788-average-age-
 
 HW 7_2
 
-Reviwed lab work that I completed in class and my tma353 CARTO page having used the SQL sybtax. Started with FB55 notebook and looked at examples in other repos, in particular Christian's
+Reviwed lab work that I completed in class and my tma353 CARTO page having used the SQL sybtax. Started with FB55 notebook and looked at examples in other repos, in particular Jack and Christian's work.
