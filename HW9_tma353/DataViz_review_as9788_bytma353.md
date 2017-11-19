@@ -1,3 +1,6 @@
+
+https://github.com/tma353/PUI2017_tma353/blob/master/HW9_tma353/solar_nycha_data_map.png
+
 CLARITY:
 
 The plot has the description in the markdown file and not on the figure itself. A scale or legend on the plot would be convienent to make it more clear. The quantity is not clear and unit of measure would be helpful to understand the amount of the values shown to relate it to the size of the icon on the map.
