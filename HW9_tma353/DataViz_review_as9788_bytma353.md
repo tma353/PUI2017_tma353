@@ -1,5 +1,5 @@
 
-https://github.com/tma353/PUI2017_tma353/blob/master/HW9_tma353/solar_nycha_data_map.png
+![]://github.com/tma353/PUI2017_tma353/blob/master/HW9_tma353/solar_nycha_data_map.png
 
 CLARITY:
 
