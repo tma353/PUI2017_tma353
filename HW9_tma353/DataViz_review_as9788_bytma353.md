@@ -1,5 +1,5 @@
 
-![] (solar_nycha_data_map.png)
+![](solar_nycha_data_map.png)
 
 CLARITY:
 
