@@ -13,3 +13,5 @@ The esthetic is functional in that a map of NYC is useful to display availble ro
 HONESTY:
 
 The plot appears honet in representing information. However, without units of measure to contextualize the space represented by the blue gradient icon and compare to the NYC landmass, it is difficult to determine.
+
+# FBB good 10/10
